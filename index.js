@@ -95,7 +95,7 @@ const firebaseConfig = {
       alert('User Logged In!! click ok to open page')
 
       
-      window.open('./movie.html');
+      window.open('/login/movie.html');
 
       
     })
